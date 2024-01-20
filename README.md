@@ -1,4 +1,3 @@
-- 👋 Hi, I'm Hirusha. Currently, I'm final year student following BEng(Hons)Software Engineering at University of Westminster.
 
   <h1 align="center">Hi 👋, I'm Hirusha Dilshan</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
