@@ -1,1 +1,1 @@
-- 👋 Hi, I'm Hirusha. Currently, I'm second year student following BEng(Hons)Software Engineering at University of Westminster. 
+- 👋 Hi, I'm Hirusha. Currently, I'm final year student following BEng(Hons)Software Engineering at University of Westminster. 
