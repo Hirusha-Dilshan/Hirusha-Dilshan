@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hirusha Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Hirusha Jayarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif">
 
